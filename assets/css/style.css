@@ -24,11 +24,16 @@ main {
 }
 
 .text-logo {
-  padding: 10px;
   display: inline;
+  font-size: 36px;
+  font-family: Arial, Helvetica, sans-serif;
+  vertical-align: middle;
+  margin-left: 10px;
+ 
 }
 
 .image-logo {
+  vertical-align: middle;
   padding: 5px 0;
 }
 
@@ -50,6 +55,7 @@ li {
 .container {
   width: 90%;
   margin: auto;
+  padding-bottom: 30px;
   background-color: #ffffff;
 }
 
