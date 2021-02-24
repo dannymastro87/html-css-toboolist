@@ -49,8 +49,15 @@ li {
 
 .container {
   width: 90%;
-  margin: 50px 0 0 0;
+  margin: auto;
   background-color: #ffffff;
+}
+
+.menu {
+  width: 90%;
+  margin: 50px auto 5px auto;
+  background-color: #ffffff;
+  padding: 10px;
 }
 
 .circle {
@@ -71,7 +78,7 @@ li {
 .btn {
   background-color: #47adf1;
   color: #ffffff;
-  border-radius: 10px;
+  border-radius: 5px;
   padding: 6px;
 }
 
@@ -91,7 +98,8 @@ li {
 }
 
 .item {
-  margin: 30px 0;
+  padding-left: 50px;
+  padding-top: 30px;
 }
 
 .editorial {
